@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.5.0",
-  "min_required_version": "2.5.0",
+  "latest_version": "2.6.0",
+  "min_required_version": "2.6.0",
   "is_mandatory": false,
-  "release_title": "Sonus v2.5.0 — Studio Edition",
+  "release_title": "Sonus v2.6.0 — Studio Edition",
   "release_date": "2026-09-25",
   "release_notes": [
     "✨ Studio High-Fidelity Audio Engine with multi-source fallback",
@@ -12,8 +12,8 @@
     "⚡ Offline audio caching and storage saver"
   ],
   "download_urls": {
-    "android_apk": "https://github.com/justcodeyourself-ui/Sonus/releases/latest",
-    "windows_exe": "https://github.com/justcodeyourself-ui/Sonus/releases/latest",
-    "direct_download": "https://github.com/justcodeyourself-ui/Sonus/releases/latest"
+    "android_apk": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest",
+    "windows_exe": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest",
+    "direct_download": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest"
   }
 }
