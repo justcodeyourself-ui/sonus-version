@@ -1,0 +1,19 @@
+{
+  "latest_version": "2.5.0",
+  "min_required_version": "2.5.0",
+  "is_mandatory": false,
+  "release_title": "Sonus v2.5.0 — Studio Edition",
+  "release_date": "2026-09-25",
+  "release_notes": [
+    "✨ Studio High-Fidelity Audio Engine with multi-source fallback",
+    "🎵 Word-by-word progressive sweep synchronized lyrics",
+    "🎮 Real-time Discord Rich Presence 2.0 with platform spoofing",
+    "📱 Floating Dock MiniPlayer with dynamic circular progress ring",
+    "⚡ Offline audio caching and storage saver"
+  ],
+  "download_urls": {
+    "android_apk": "https://github.com/justcodeyourself-ui/Sonus/releases/latest",
+    "windows_exe": "https://github.com/justcodeyourself-ui/Sonus/releases/latest",
+    "direct_download": "https://github.com/justcodeyourself-ui/Sonus/releases/latest"
+  }
+}
