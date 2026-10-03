@@ -1,15 +1,15 @@
 {
-  "latest_version": "2.6.0",
+  "latest_version": "2.6.1",
   "min_required_version": "2.6.0",
   "is_mandatory": false,
-  "release_title": "Sonus v2.6.0 — Studio Edition",
-  "release_date": "2026-09-25",
+  "release_title": "Sonus v2.6.1 — Direct LAN & Connect Update",
+  "release_date": "2026-10-03",
   "release_notes": [
-    "✨ Studio High-Fidelity Audio Engine with multi-source fallback",
-    "🎵 Word-by-word progressive sweep synchronized lyrics",
-    "🎮 Real-time Discord Rich Presence 2.0 with platform spoofing",
-    "📱 Floating Dock MiniPlayer with dynamic circular progress ring",
-    "⚡ Offline audio caching and storage saver"
+    "🚀 Direct LAN zero-latency peer-to-peer sync between devices on same network",
+    "🎧 Seamless 'Play Here' audio transfer with position tracking and miniplayer",
+    "📡 Instant progress seeking synchronization across active listening devices",
+    "🤖 Discord Bot /mykeys interactive inspector fix",
+    "⚡ High-performance audio stream handling and playback stability improvements"
   ],
   "download_urls": {
     "android_apk": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest",
