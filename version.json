@@ -1,15 +1,16 @@
 {
-  "latest_version": "2.6.1",
+  "latest_version": "2.6.2",
   "min_required_version": "2.6.0",
   "is_mandatory": false,
-  "release_title": "Sonus v2.6.1 — Direct LAN & Connect Update",
-  "release_date": "2026-10-03",
+  "release_title": "Sonus v2.6.2 — SQLite Storage Optimization & Miniplayer Persistence",
+  "release_date": "2026-10-05",
   "release_notes": [
-    "🚀 Direct LAN zero-latency peer-to-peer sync between devices on same network",
-    "🎧 Seamless 'Play Here' audio transfer with position tracking and miniplayer",
-    "📡 Instant progress seeking synchronization across active listening devices",
-    "🤖 Discord Bot /mykeys interactive inspector fix",
-    "⚡ High-performance audio stream handling and playback stability improvements"
+    "🗄️ Ultra-compact SQLite storage engine with automatic WAL truncation, full vacuuming, and deduplication",
+    "🎧 Persistent miniplayer last-played track across app sessions",
+    "👆 Left / Right swipe gesture navigation in music player (skip & previous track)",
+    "🎨 Dynamic color theme toggle (Off by default for cleaner, consistent visuals)",
+    "🗑️ Complete and instant playlist track deletion sync",
+    "🔒 Lean MongoDB architecture strictly dedicated to authentication, keys, and pairing"
   ],
   "download_urls": {
     "android_apk": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest",
