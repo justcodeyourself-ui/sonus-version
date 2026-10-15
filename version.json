@@ -1,16 +1,16 @@
 {
-  "latest_version": "2.6.2",
+  "latest_version": "2.6.3",
   "min_required_version": "2.6.0",
   "is_mandatory": false,
-  "release_title": "Sonus v2.6.2 — SQLite Storage Optimization & Miniplayer Persistence",
-  "release_date": "2026-10-05",
+  "release_title": "Sonus v2.6.3 — Critical Bug Fixes & Playlist Synchronization",
+  "release_date": "2026-10-15",
   "release_notes": [
-    "🗄️ Ultra-compact SQLite storage engine with automatic WAL truncation, full vacuuming, and deduplication",
-    "🎧 Persistent miniplayer last-played track across app sessions",
-    "👆 Left / Right swipe gesture navigation in music player (skip & previous track)",
-    "🎨 Dynamic color theme toggle (Off by default for cleaner, consistent visuals)",
-    "🗑️ Complete and instant playlist track deletion sync",
-    "🔒 Lean MongoDB architecture strictly dedicated to authentication, keys, and pairing"
+    "Fixed critical bug where playlist tracks were duplicated upon undoing deletion",
+    "Resolved state desynchronization and race conditions in cloud library synchronization",
+    "Fixed session authorization token refresh and heartbeat connection drops",
+    "Enhanced audio engine stream stability and automatic multi-source failover handling",
+    "Optimized local database caching and reduced memory footprint during extended playback",
+    "General performance improvements and UI responsiveness enhancements"
   ],
   "download_urls": {
     "android_apk": "https://github.com/justcodeyourself-ui/sonus-version/releases/latest",
